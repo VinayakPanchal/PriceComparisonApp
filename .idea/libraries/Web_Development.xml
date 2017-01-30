@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Web Development" type="javaScript">
+    <CLASSES>
+      <root url="file://G:/Developer Tools/Web Tools/js/jquery.min.js" />
+      <root url="file://G:/Developer Tools/Web Tools/js/angular.min.js" />
+      <root url="file://G:/Developer Tools/Web Tools/js/bootstrap.min.js" />
+      <root url="file://G:/Developer Tools/Web Tools/js/d3.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
